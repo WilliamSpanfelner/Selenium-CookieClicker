@@ -1,3 +1,4 @@
+![Screenshot](day-48-Selenium-CookieClicker.png)
 # Selenium & CookieClicker Automation
 - 👋 Hi, I’m @WilliamSpanfelner
 - 👀 I’m interested in using Python with Swift in iOS environments and why it may or may not be desirable.
@@ -6,7 +7,7 @@ The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days
 
 - 🧑‍💻 Selenium is another web-scraping tool that also allows automation with regard to form filling, button
 clicking, scrolling etc.  This Python project has a variety of examples illustrating the use of some common
-features, and if you like cookies, well lets just say you might find yourself in seventh heaven.
+features, and if you like cookies, well lets just say you might find yourself in seventh heaven. Check out [Cookie Clicker](http://orteil.dashnet.org/cookieclicker/test/)
 
 - 💞️ I’m looking to collaborate on application development.
 - 📫 How to reach me ... Twitter: @WSpanfelner
